@@ -1,0 +1,23 @@
+diff -urN qmetro-0.7.1/rc/qmetro.desktop qmetro-0.7.1-patched/rc/qmetro.desktop
+--- qmetro-0.7.1/rc/qmetro.desktop	2011-10-26 00:02:18.000000000 +1100
++++ qmetro-0.7.1-patched/rc/qmetro.desktop	2014-01-23 02:12:15.983523563 +1100
+@@ -1,10 +1,9 @@
+-[Desktop Entry]
+-Encoding=UTF-8
+-Type=Application
+-Name=qMetro
+-Comment=Map of the transport system
+-Comment[ru]=Карта транспотной системы
+-Exec=/usr/bin/qmetro
+-Icon=qmetro
+-Categories=Navigation;Utility;Map;Qt;
+-Terminal=false
++[Desktop Entry]
++Type=Application
++Name=qMetro
++Comment=Map of the transport system
++Comment[ru]=Карта транспотной системы
++Exec=/usr/bin/qmetro
++Icon=qmetro
++Categories=Science;Geography;Qt;
++Terminal=false
