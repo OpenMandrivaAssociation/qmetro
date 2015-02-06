@@ -1,7 +1,7 @@
 Summary:	Transport system maps for many city subways
 Name:		qmetro
 Version:	0.7.1
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Sciences/Geosciences
 Url:		https://sourceforge.net/projects/qmetro/
