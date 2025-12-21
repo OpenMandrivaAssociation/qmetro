@@ -7,6 +7,7 @@ Group:		Sciences/Geosciences
 Url:		https://sourceforge.net/projects/qmetro/
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.zip
 Patch0:		qmetro-0.7.1-desktop.patch
+BuildRequires:	make
 BuildRequires:	librsvg
 BuildRequires:	pkgconfig(QtCore)
 BuildRequires:	pkgconfig(QtGui)
